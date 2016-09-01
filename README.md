@@ -16,7 +16,7 @@
 
 ##使用方法
 
-**将FontAdaptation.m 和 FontAdaptation.h文件拖进你的工程，在pch文件或需要的地方包含头文件FontAdaptation.h**
+**先将FontAdaptation.m 和 FontAdaptation.h文件拖进你的工程，在pch文件或需要的地方包含头文件FontAdaptation.h**
 
 ###第一步，设置增量
 
@@ -24,7 +24,7 @@
 
 **设置5.5inch屏幕增量为4.7inch屏幕字体的size＋2;**
 
-**4.0inch屏幕为4.7inch屏幕字体－2;**
+**4.0inch屏幕为4.7inch屏幕字体size－2;**
 
 **3.5inch屏幕为4.7inch屏幕字体size -2。**
 
